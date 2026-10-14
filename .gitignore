@@ -1,0 +1,27 @@
+# Keep recordings, task outputs, credentials and model caches outside this repo.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+.cache/
+models/
+outputs/
+private/
+*.mov
+*.mp4
+*.mkv
+*.wav
+*.mp3
+*.aep
+*.prproj
+*.safetensors
+*.pth
+*.npz
