@@ -1,0 +1,4 @@
+interface:
+  display_name: "Adobe Premiere EA"
+  short_description: "Cut, transcribe, sequence, and verify course videos"
+  default_prompt: "Use $adobe-premiere-ea to edit this course recording, preserve complete speech, and deliver a verified editable Premiere project."
